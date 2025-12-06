@@ -1,0 +1,425 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "🤔" : {
+
+    },
+    "CreateThoughtScreen/NavigationTitle" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New Thought"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Novo Pensamento"
+          }
+        }
+      }
+    },
+    "DayOfThoughts/SectionHeader/SummarizeButton-Title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Summarize"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resumir"
+          }
+        }
+      }
+    },
+    "NewThoughtScreen/TextEditorPlaceholder" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What’s on your mind?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O que se passa na sua mente?"
+          }
+        }
+      }
+    },
+    "NewThoughtScreen/Toolbar/CancellationAction/Button-Title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Close"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fechar"
+          }
+        }
+      }
+    },
+    "NewThoughtScreen/Toolbar/CancellationAction/ConfirmationDialog-Title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Are you sure you want to discard this new thought?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Você tem certeza que deseja descartar esse novo pensamento?"
+          }
+        }
+      }
+    },
+    "NewThoughtScreen/Toolbar/CancellationAction/ConfirmationDialog/DestructiveButton-Title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Discard Thought"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Descartar Pensamento"
+          }
+        }
+      }
+    },
+    "NewThoughtScreen/Toolbar/ConfirmationAction/Button-Title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Memorize"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Memorizar"
+          }
+        }
+      }
+    },
+    "OverthinkerShortcuts/QuickThoughtIntent-ShortTitle" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quick Thought"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pensamento Rápido"
+          }
+        }
+      }
+    },
+    "QuickThoughtIntent-Description" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add a quick thought to your collection of thoughts."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adicionar um pensamento rápido para a sua coleção de pensamentos."
+          }
+        }
+      }
+    },
+    "QuickThoughtIntent-Title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Quick Thought"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adicionar Pensamento Rápido"
+          }
+        }
+      }
+    },
+    "QuickThoughtIntent/Parameter/QuickThought-Description" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The thought to be memorized."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O pensamento a ser memorizado."
+          }
+        }
+      }
+    },
+    "QuickThoughtIntent/Parameter/QuickThought-RequestValueDialog" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What are you thinking right now?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O que você está pensando agora?"
+          }
+        }
+      }
+    },
+    "QuickThoughtIntent/Parameter/QuickThought-Title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quick Thought"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pensamento Rápido"
+          }
+        }
+      }
+    },
+    "ThoughtDetailsScreen/ThoughtDate-Text%@%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thought on %1$@ at %2$@"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pensado em %1$@ às %2$@"
+          }
+        }
+      }
+    },
+    "ThoughtDetailsScreen/Toolbar/DestructiveAction/Button-Title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forget Thought"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esquecer Pensamento"
+          }
+        }
+      }
+    },
+    "ThoughtDetailsScreen/Toolbar/DestructiveAction/ConfirmationDialog-Title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Are you sure you want to forget this thought?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Você tem certeza que deseja esquecer esse pensamento?"
+          }
+        }
+      }
+    },
+    "ThoughtDetailsScreen/Toolbar/DestructiveAction/ConfirmationDialog/DestructiveButton-Title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forget Thought"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esquecer Pensamento"
+          }
+        }
+      }
+    },
+    "ThoughtListScreen/EmptyState-Description" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What have you been thinking lately?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O que você tem pensado ultimamente?"
+          }
+        }
+      }
+    },
+    "ThoughtListScreen/EmptyState-Title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Empty Mind"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mente Vazia"
+          }
+        }
+      }
+    },
+    "ThoughtListScreen/EmptyState/Button-Title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New Thought"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Novo Pensamento"
+          }
+        }
+      }
+    },
+    "ThoughtListScreen/NavigationTitle" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thoughts"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pensamentos"
+          }
+        }
+      }
+    },
+    "ThoughtListScreen/Toolbar/PrimaryAction/Button-Title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New Thought"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Novo Pensamento"
+          }
+        }
+      }
+    },
+    "ThoughtSummaryScreen/NavigationTitle" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thought Summary"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resumo"
+          }
+        }
+      }
+    },
+    "ThoughtSummaryScreen/ThoughtDate-Text%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Summary of thoughts on %@"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resumo de pensamentos em %@"
+          }
+        }
+      }
+    },
+    "ThoughtSummaryScreen/Toolbar/CancellationAction/Button-Title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Close"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fechar"
+          }
+        }
+      }
+    },
+    "ThoughtSummaryScreen/Toolbar/DestructiveAction/DestructiveButton-Title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resummarize"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Refazer"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.1"
+}
